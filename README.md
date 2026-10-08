@@ -20,12 +20,34 @@ This repository contains public learning material and practice notebooks. It is 
 
 ```text
 .
-├── Python/
-├── SQL/
-├── Regression/
-├── NLP And Classification/
-└── Unsupervised Learning/
+├── python/                   Core Python, EDA and data validation
+├── sql/                      SQL querying and the Maji Ndogo water project
+├── regression/               Linear models, decision trees, random forests
+├── classification-and-nlp/   Logistic regression, tuning, NLP, image classification
+└── unsupervised-learning/    Clustering and a movie recommender
 ```
+
+## Notebooks
+
+| Area | Notebook | Topic |
+| --- | --- | --- |
+| Python | [data_structures_and_types](python/data_structures_and_types.ipynb) | Core data structures and types |
+| Python | [loops_and_functions](python/loops_and_functions.ipynb) | Control flow and functions |
+| Python | [integrated_project_part1](python/integrated_project_part1.ipynb) | Farm survey project: loading and first analysis |
+| Python | [integrated_project_part2_eda_and_validation](python/integrated_project_part2_eda_and_validation.ipynb) | Exploratory analysis and validation |
+| Python | [integrated_project_part3_data_validation](python/integrated_project_part3_data_validation.ipynb) | Validating the data against weather records |
+| SQL | [maji_ndogo_water_part1](sql/maji_ndogo_water_part1.ipynb) to [part4](sql/maji_ndogo_water_part4.ipynb) | Water-services database analysis in four parts |
+| SQL | [movie_database_exam](sql/movie_database_exam.ipynb) | Querying a movie database |
+| Regression | [linear_regression](regression/linear_regression.ipynb) | Linear regression |
+| Regression | [decision_tree](regression/decision_tree.ipynb) | Decision tree regression |
+| Regression | [random_forest](regression/random_forest.ipynb) | Random forest regression |
+| Regression | [regression_final_challenge](regression/regression_final_challenge.ipynb) | End-of-module regression challenge |
+| Classification | [logistic_regression](classification-and-nlp/logistic_regression.ipynb) | Logistic regression |
+| Classification | [hyperparameter_tuning](classification-and-nlp/hyperparameter_tuning.ipynb) | Hyperparameter tuning |
+| Classification | [image_classification](classification-and-nlp/image_classification.ipynb) | Image classification |
+| NLP | [nlp_classification_practical](classification-and-nlp/nlp_classification_practical.ipynb) | Text classification practical |
+| Unsupervised | [k_means_and_hierarchical_clustering](unsupervised-learning/k_means_and_hierarchical_clustering.ipynb) | K-means and hierarchical clustering |
+| Unsupervised | [movie_recommendation](unsupervised-learning/movie_recommendation.ipynb) | Movie recommendation system |
 
 ## Skills Demonstrated
 
